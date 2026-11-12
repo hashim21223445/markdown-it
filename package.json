@@ -61,7 +61,7 @@
     "benchmark": "~2.1.0",
     "c8": "^8.0.1",
     "chai": "^4.2.0",
-    "eslint": "^8.4.1",
+    "eslint": "^9.26.0",
     "eslint-config-standard": "^17.1.0",
     "express": "^4.14.0",
     "gh-pages": "^6.1.0",
